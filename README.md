@@ -4,7 +4,7 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/bibetal)
 # bib et al. - The "One author et al." tool
 
-bibetal is a pure Python script that rewrites bib files to only contain one author / editor per entry. Other authors / editors are automatically replaced by *and others*, which in turn in parsed as *et al.* in most bibliographies.
+bibetal is a pure Python script that rewrites bib files to only contain one author / editor per entry. Other authors / editors are automatically replaced by *and others*, which in turn is parsed as *et al.* in most bibliographies.
 
 ### Installation
 bibetal can be installed using `pip`:
