@@ -25,6 +25,6 @@ bibetal <FILE>
 Feel free to contribute or propose ideas using the [Issues](https://github.com/jeertmans/bibetal/issues) and [Pull requests](https://github.com/jeertmans/bibetal/pulls) tabs.
 
 
-[pypi-version-badge]: https://img.shields.io/pypi/v/bibetal?label=SelSearch
+[pypi-version-badge]: https://img.shields.io/pypi/v/bibetal?label=bibetal
 [pypi-version-url]: https://pypi.org/project/bibetal/
 [pypi-python-version-badge]: https://img.shields.io/pypi/pyversions/bibetal
